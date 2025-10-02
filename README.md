@@ -18,4 +18,3 @@ Files in the `Sources` folder are **split due to GitHub limits**. To reconstruct
 - Add **Recovery Pack** option to Windows boot menu
 - Includes **WinRE + DART** environment
 - Provides tools for recovery, diagnostics, and maintenance
-- Supports manual extraction of large files from the `Sources` folder
